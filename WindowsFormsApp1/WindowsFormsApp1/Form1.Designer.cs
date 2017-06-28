@@ -75,11 +75,19 @@
             // 
             // button2
             // 
+<<<<<<< HEAD
             this.button2.Location = new System.Drawing.Point(203, 138);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 34);
             this.button2.TabIndex = 4;
             this.button2.Text = "Dellete";
+=======
+            this.button2.Location = new System.Drawing.Point(237, 139);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(104, 45);
+            this.button2.TabIndex = 4;
+            this.button2.Text = "button2";
+>>>>>>> newbranch
             this.button2.UseVisualStyleBackColor = true;
             // 
             // Form1
