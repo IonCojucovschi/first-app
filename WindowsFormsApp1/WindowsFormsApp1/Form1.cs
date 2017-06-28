@@ -22,5 +22,10 @@ namespace WindowsFormsApp1
             trala tr = new trala();
             tr.Show();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
